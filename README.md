@@ -1,5 +1,5 @@
 # Estadistica-Aplicada
-Curso de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde aprendo acerca de Series de Tiempo y Supervivencia utilizando el lenguaje de programación R.
+Unidad de aprendizaje de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde aprendo acerca de Series de Tiempo y Supervivencia utilizando el lenguaje de programación R.
 
 Análisis de una serie de tiempo  
 Seguros y fondos de pensiones: Primas y reservas de Reino Unido  
