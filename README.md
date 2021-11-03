@@ -1,8 +1,8 @@
 # Estadistica-Aplicada
-Unidad de aprendizaje de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde aprendo acerca de:  
+Unidad de aprendizaje de mi falcutad (Facultad de Ciencias Físico Matemáticas) donde, utilizando el lenguaje de programación R, aprendo acerca de:  
 
 - Series de Tiempo (clase 1 a 10) y  
-- Supervivencia (clase 11 a 19) utilizando el lenguaje de programación R.
+- Supervivencia (clase 11 a 19) 
 
 Análisis de una serie de tiempo  
 Seguros y fondos de pensiones: Primas y reservas de Reino Unido  
